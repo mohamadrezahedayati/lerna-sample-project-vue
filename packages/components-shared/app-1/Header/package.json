@@ -1,0 +1,7 @@
+{
+    "name": "@mohamad-org/app-1-header",
+    "version": "0.0.0",
+    "publishConfig": {
+      "access": "public"
+    }
+  }
