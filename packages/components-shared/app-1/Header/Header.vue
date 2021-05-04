@@ -1,6 +1,6 @@
 <template>
     <div>
-        header component
+        header component resuable
     </div>
 </template>
 
