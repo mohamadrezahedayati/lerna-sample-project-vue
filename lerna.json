@@ -2,7 +2,6 @@
   "packages": [
     "packages/components-shared/app-1/**",
     "packages/components-shared/presc-app/**",
-    "packages/components-shared/presc-app/prescription-sum-list",
     "packages/*"
   ],
   "version": "independent"
