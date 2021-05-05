@@ -1,0 +1,7 @@
+{
+  "name": "@mohamad-org/prescription-summary",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  }
+}
