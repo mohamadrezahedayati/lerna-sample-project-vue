@@ -1,6 +1,6 @@
 {
   "name": "prescription-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -11,6 +11,5 @@
   "dependencies": {
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3"
-  },
-  "devDependencies": {}
+  }
 }
