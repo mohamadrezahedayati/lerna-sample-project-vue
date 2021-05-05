@@ -24,11 +24,17 @@
         </a>
       </div>
     </div>
+    <Header />
   </div>
 </template>
 
 <script>
-export default {}
+import Header from '@mohamad-org/header/header'
+export default {
+  components:{
+    Header
+  }
+}
 </script>
 
 <style>
