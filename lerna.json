@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/components-shared/app-1/**"
+    "packages/components-shared/app-1/**",
+    "packages/*"
   ],
   "version": "independent"
 }
