@@ -2,6 +2,7 @@
   "packages": [
     "packages/components-shared/app-1/**",
     "packages/components-shared/prescription-app/**",
+    "packages/components-shared/prescription-app/PrescriptionSummary",
     "packages/*"
   ],
   "version": "independent"
