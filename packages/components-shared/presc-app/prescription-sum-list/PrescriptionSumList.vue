@@ -1,6 +1,6 @@
 <template>
     <div>
-        prescription summary component
+        prescription-sum-list
     </div>
 </template>
 
