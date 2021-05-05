@@ -1,6 +1,6 @@
 {
   "packages": [
-    "packages/components-shared"
+    "packages/components-shared/*"
   ],
   "version": "independent"
 }
