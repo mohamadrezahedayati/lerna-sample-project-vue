@@ -1,6 +1,7 @@
 <template>
     <div>
         prescription summary component
+        prescription summary component
     </div>
 </template>
 
