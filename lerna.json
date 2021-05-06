@@ -2,6 +2,7 @@
   "packages": [
     "packages/components-shared/app-1/**",
     "packages/components-shared/presc-app/**",
+    "packages/components-shared/visit-app/**",
     "packages/*"
   ],
   "version": "independent"
