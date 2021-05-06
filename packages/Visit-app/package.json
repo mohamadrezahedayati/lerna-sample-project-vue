@@ -1,6 +1,6 @@
 {
   "name": "visit-app",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@mohamad-org/prescription-sum-list": "^0.0.3",
-    "@mohamad-org/visit-list": "^0.1.2",
+    "@mohamad-org/visit-list": "^0.2.0",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3"
   }
