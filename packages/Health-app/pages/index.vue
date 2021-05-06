@@ -1,38 +1,14 @@
 <template>
   <div class="container">
-    <div>
-      <Logo />
-      <h1 class="title">
-        app-1
-      </h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
-    </div>
-    <Header />
+    <VisitList />
   </div>
 </template>
 
 <script>
-import Header from '@mohamad-org/header/header'
+import VisitList from '@mohamad-org/visit-list/VisitList'
 export default {
   components:{
-    Header
+    VisitList
   }
 }
 </script>
