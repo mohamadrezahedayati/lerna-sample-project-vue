@@ -3,5 +3,8 @@
     "version": "0.1.2",
     "publishConfig": {
         "access": "public"
+    },
+    "dependencies": {
+        "@mohamad-org/visit-card": "^0.1.1"
     }
 }

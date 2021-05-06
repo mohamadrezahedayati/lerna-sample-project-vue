@@ -8,8 +8,11 @@
 </template>
 
 <script>
+  import VisitCard from '@mohamad-org/visit-card/VisitCard'
     export default {
-        
+        components:{
+          VisitCard
+        }
     }
 </script>
 
