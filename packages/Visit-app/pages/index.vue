@@ -1,10 +1,6 @@
 <template>
   <div class="container">
-    <div>
-      <div v-for="item in 5" :key="item">
-        <VisitCard />
-      </div>
-    </div>
+
   </div>
 </template>
 
