@@ -1,10 +1,10 @@
 {
     "name": "@mohamad-org/visit-list",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publishConfig": {
         "access": "public"
     },
     "dependencies": {
-        "@mohamad-org/visit-card": "^0.1.1"
+        "@mohamad-org/visit-card": "^1.0.0"
     }
 }
