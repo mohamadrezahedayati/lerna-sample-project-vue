@@ -1,0 +1,7 @@
+{
+    "name": "@mohamad-org/patient-summary",
+    "version": "0.0.0",
+    "publishConfig": {
+        "access": "public"
+    }
+}
