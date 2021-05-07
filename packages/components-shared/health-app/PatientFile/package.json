@@ -1,11 +1,11 @@
 {
     "name": "@mohamad-org/patient-file",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "publishConfig": {
         "access": "public"
     },
     "dependencies": {
-        "@mohamad-org/patient-summary": "^0.1.0",
-        "@mohamad-org/visit-list": "^0.3.0"
+        "@mohamad-org/patient-summary": "^0.2.0",
+        "@mohamad-org/visit-list": "^1.0.0"
     }
 }
