@@ -1,6 +1,6 @@
 {
   "name": "shell-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@mohamad-org/patient-file": "^1.0.0",
+    "@mohamad-org/patient-file": "^2.0.0",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3"
   }
