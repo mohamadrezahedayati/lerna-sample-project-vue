@@ -9,8 +9,6 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@mohamad-org/header": "^0.0.1",
-    "@mohamad-org/visit-list": "^0.3.0",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3"
   }

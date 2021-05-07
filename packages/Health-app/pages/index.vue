@@ -1,14 +1,11 @@
 <template>
   <div class="container">
-    <VisitList />
   </div>
 </template>
 
 <script>
-import VisitList from '@mohamad-org/visit-list/VisitList'
 export default {
   components:{
-    VisitList
   }
 }
 </script>
