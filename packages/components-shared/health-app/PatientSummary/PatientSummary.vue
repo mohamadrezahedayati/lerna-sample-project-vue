@@ -1,12 +1,22 @@
 <template>
     <div class="container-patient-summary">
+        <input type="text" v-model="textSummary" @input="showChange()">
         Patient Summary component (npm)
     </div>
 </template>
 
 <script>
     export default {
-        
+        data() {
+            return {
+                textSummary:''
+            }
+        },
+        methods: {
+            showChange(){
+                this.$emit('getSearchValue',this.textSummary)
+            }
+        },
     }
 </script>
 

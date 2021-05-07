@@ -1,8 +1,8 @@
 <template>
     <div class="container-patient-file">
         patient file component (npm)
-        <PatientSummary />
-        <VisitList />
+        <PatientSummary @getSearchValue="getSearchFromPatientSummary" />
+        <VisitList :searchValue="searchValue" />
     </div>
 </template>
 
@@ -12,7 +12,18 @@
     export default {
         components:{
             PatientSummary,VisitList
-        }
+        },
+        data() {
+            return {
+                searchValue:''
+            }
+        },
+        methods: {
+            getSearchFromPatientSummary(eventValue){
+                console.log(eventValue)
+                this.searchValue = eventValue
+            }
+        },
     }
 </script>
 
