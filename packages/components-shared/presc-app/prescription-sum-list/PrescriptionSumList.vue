@@ -1,6 +1,6 @@
 <template>
     <div class="container-prescription-sum-list">
-        this is prescription-sum-list component
+        prescription-sum-list component (npm)
     </div>
 </template>
 
@@ -14,7 +14,7 @@
 .container-prescription-sum-list{
     background: gold;
     border: 1px rgb(255, 153, 0) solid;
-    padding: 3px;
+    padding: 10px;
     margin-top: 10px;
 }
 </style>

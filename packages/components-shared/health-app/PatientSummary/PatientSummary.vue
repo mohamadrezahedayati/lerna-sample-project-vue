@@ -1,6 +1,6 @@
 <template>
-    <div>
-        Patient Summary component
+    <div class="container-patient-summary">
+        Patient Summary component (npm)
     </div>
 </template>
 
@@ -10,6 +10,9 @@
     }
 </script>
 
-<style lang="scss" scoped>
-
+<style lang="css" scoped>
+.container-patient-summary{
+    background-color: darkorange;
+    padding: 10px;
+}
 </style>

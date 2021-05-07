@@ -1,5 +1,6 @@
 <template>
-    <div>
+    <div class="container-patient-file">
+        patient file component (npm)
         <PatientSummary />
         <VisitList />
     </div>
@@ -15,6 +16,9 @@
     }
 </script>
 
-<style lang="scss" scoped>
-
+<style lang="css" scoped>
+.container-patient-file{
+    padding: 10px;
+    background-color: rgb(127, 0, 139);
+}
 </style>

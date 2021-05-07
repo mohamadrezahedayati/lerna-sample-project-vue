@@ -1,6 +1,6 @@
 <template>
-    <div>
-        visit list component 
+    <div class="container-visit-list">
+        visit list component (npm)
       <div v-for="item in 5" :key="item">
         <VisitCard />
       </div>
@@ -16,6 +16,10 @@
     }
 </script>
 
-<style lang="scss" scoped>
-
+<style lang="css" scoped>
+.container-visit-list{
+  margin-top: 10px;
+  background-color: darkorange;
+  padding: 10px;
+}
 </style>
